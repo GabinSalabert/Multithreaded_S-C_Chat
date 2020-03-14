@@ -1,0 +1,12 @@
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\bin\Debug\Client_Side.exe.config
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\bin\Debug\Client_Side.exe
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\bin\Debug\Client_Side.pdb
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.csprojAssemblyReference.cache
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.Chat_status.resources
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.NewChannel.resources
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.Login.resources
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.Properties.Resources.resources
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.Register.resources
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.csproj.GenerateResource.cache
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.exe
+C:\Users\Gabin\Documents\Studies\C#\Chat_Application\Client_Server_Project\Client_Side\obj\Debug\Client_Side.pdb
